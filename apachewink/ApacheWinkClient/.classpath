@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/bhagvan.kommadi/Downloads/skp-code-marathon-hochiminh-master/target/hochiminh/WEB-INF/lib/wink-client-1.4.jar"/>
+	<classpathentry kind="lib" path="/Users/bhagvan.kommadi/Downloads/skp-code-marathon-hochiminh-master/target/hochiminh/WEB-INF/lib/wink-common-1.4.jar"/>
+	<classpathentry kind="lib" path="/Users/bhagvan.kommadi/Downloads/skp-code-marathon-hochiminh-master/target/hochiminh/WEB-INF/lib/wink-jackson-provider-1.4.jar"/>
+	<classpathentry kind="lib" path="/Users/bhagvan.kommadi/Downloads/skp-code-marathon-hochiminh-master/target/hochiminh/WEB-INF/lib/geronimo-annotation_1.1_spec-1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/bhagvan.kommadi/Downloads/skp-code-marathon-hochiminh-master/target/hochiminh/WEB-INF/lib/geronimo-jaxrs_1.1_spec-1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/bhagvan.kommadi/Downloads/skp-code-marathon-hochiminh-master/target/hochiminh/WEB-INF/lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/Users/bhagvan.kommadi/Downloads/skp-code-marathon-hochiminh-master/target/hochiminh/WEB-INF/lib/slf4j-simple-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/Users/bhagvan.kommadi/Downloads/skp-code-marathon-hochiminh-master/target/hochiminh/WEB-INF/lib/jackson-core-asl-1.9.13.jar"/>
+	<classpathentry kind="lib" path="/Users/bhagvan.kommadi/Downloads/skp-code-marathon-hochiminh-master/target/hochiminh/WEB-INF/lib/jackson-jaxrs-1.9.13.jar"/>
+	<classpathentry kind="lib" path="/Users/bhagvan.kommadi/Downloads/skp-code-marathon-hochiminh-master/target/hochiminh/WEB-INF/lib/jackson-mapper-asl-1.9.13.jar"/>
+	<classpathentry kind="lib" path="/Users/bhagvan.kommadi/Downloads/skp-code-marathon-hochiminh-master/target/hochiminh/WEB-INF/lib/jackson-xc-1.9.13.jar"/>
+	<classpathentry kind="lib" path="/Users/bhagvan.kommadi/Downloads/skp-code-marathon-hochiminh-master/target/hochiminh/WEB-INF/lib/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/bhagvan.kommadi/Downloads/skp-code-marathon-hochiminh-master/target/hochiminh/WEB-INF/lib/commons-lang-2.3.jar"/>
+	<classpathentry kind="lib" path="/Users/bhagvan.kommadi/Downloads/skp-code-marathon-hochiminh-master/target/hochiminh/WEB-INF/lib/jaxb-api-2.2.jar"/>
+	<classpathentry kind="lib" path="/Users/bhagvan.kommadi/Downloads/skp-code-marathon-hochiminh-master/target/hochiminh/WEB-INF/lib/jaxb-impl-2.2.1.jar"/>
+	<classpathentry kind="lib" path="/Users/bhagvan.kommadi/Downloads/skp-code-marathon-hochiminh-master/target/hochiminh/WEB-INF/lib/stax-api-1.0-2.jar"/>
+	<classpathentry kind="lib" path="/Users/bhagvan.kommadi/Downloads/skp-code-marathon-hochiminh-master/target/hochiminh/WEB-INF/lib/wink-server-1.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
